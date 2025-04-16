@@ -20,6 +20,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
+![image](https://github.com/user-attachments/assets/d5b8bfe3-a7f1-4098-84a4-3beed0687be2)
 
 **Procedure**
 
@@ -42,11 +43,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **RTL realization**
 
+![2d352aa94d0546c3a197c0e0a02e0a39 1](https://github.com/user-attachments/assets/1b70b7cb-9e8b-4440-9762-5adf18f887c6)
+
+
 **Output:**
-
-**RTL**
-
-**Timing Diagram**
+![image](https://github.com/user-attachments/assets/a166ca88-e634-44e6-a5ab-25c1712d5a22)
 
 **Result:**
 
