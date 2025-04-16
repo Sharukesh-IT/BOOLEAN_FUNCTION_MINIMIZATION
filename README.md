@@ -1,3 +1,6 @@
+#Name: Sharukesh.s
+#Registernumber: 212224220095
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -33,9 +36,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+![image](https://github.com/user-attachments/assets/dea0cde3-fe0f-4880-b6f5-ad1cbf5450e8)
 
 
 **RTL realization**
