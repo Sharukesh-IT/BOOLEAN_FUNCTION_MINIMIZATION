@@ -1,7 +1,7 @@
 #Name: Sharukesh.s
 #Registernumber: 212224220095
 
-# BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN FUNCTION MINIMIZATION
 
 **AIM:**
 
@@ -13,9 +13,9 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **Equipment Required:**
 
-Hardware – PCs, Cyclone II , USB flasher
+Hardware  PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+**Software  Quartus prime**
 
 **Theory**
 
